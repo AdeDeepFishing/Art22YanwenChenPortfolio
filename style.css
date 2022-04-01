@@ -1,0 +1,48 @@
+:root {
+  --color-bg: #69F7BE;
+  --color-text-main: #000000;
+  --color-primary: #FFFF00;
+  --wrapper-height: 87vh;
+  --image-max-width: 300px;
+  --image-margin: 3rem;
+  --font-family: "HK Grotesk";
+  --font-family-header: "HK Grotesk";
+}
+
+body {
+    max-width: 800px;
+    margin-top: 25pt;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #A7D3FB;
+    color:#3D4952;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:#FFFFFF;
+    font-size: 24pt; 
+}
+
+h2 {
+    color:#EEFCFC;
+    font-size: 18pt;
+}
+
+p {
+    color: #376968;
+    font-size: 12pt;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color:#3D4952;
+}
+
+a:hover {
+    color:#DCE1E5;
+    background-color: #3D4952;
+}
